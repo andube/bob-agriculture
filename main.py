@@ -18,7 +18,7 @@ bot.load_extension("commands.animal")
 bot.load_extension("commands.plant_list")
 bot.load_extension("commands.plant")
 bot.load_extension("commands.circles")
-print("bro the commands are loaded tbh")
+print("bro the commands are loaded tbh") # sus
 
 keep_alive.keep_alive()
 
