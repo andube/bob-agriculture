@@ -1,1 +1,2 @@
-This is a wacky fun bot made by the funky developers chipsmelon and andube
+This bot is D
+not made by chipsmelon or andube
