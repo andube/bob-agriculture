@@ -17,8 +17,8 @@ bot.load_extension("commands.animal_list")
 bot.load_extension("commands.animal")
 bot.load_extension("commands.plant_list")
 bot.load_extension("commands.plant")
-bot.load_extension("commands.circles")
-print("bro the commands are loaded tbh") # ITS JOHN CENA yeah true this is a github in vscode test
+bot.load_extension("commands.circles") # john cena below?
+print("bro the commands are loaded tbh") # ITS JOHN CENA
 
 keep_alive.keep_alive()
 
